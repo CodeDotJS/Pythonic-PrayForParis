@@ -1,4 +1,4 @@
-# Pythonic-PrayForParis
+# PrayForParis
 
 > Adds color of france flag's on your desired image.
 
