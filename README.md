@@ -27,9 +27,12 @@ $ python france.py
 
 ## Screenshot
 
+<h1 align="center">
 <img src="https://cloud.githubusercontent.com/assets/9411252/14898428/487dff6e-0da4-11e6-8b61-ac8d79980119.gif"></img>
-
-<img src="http://rishigiri.com/github/quora.png" width="500"></img>
+</h1>
+<h1 align="center">
+<img src="http://rishigiri.com/github/quora.png" width="700"></img>
+</h1>
 
 ## License
 
